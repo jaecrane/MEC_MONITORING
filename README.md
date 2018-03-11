@@ -1,10 +1,10 @@
 # ChaProject
--virtualization, cloud, monitoring, xen, kvm-
+-virtualization, cloud, edge, monitoring, xen, kvm-
 
 
 project name : System SW Development in Mobile Edge Cloud for High-Availability and Low-Power Management
 
-we want a make a cloud infra structure above.
+we want a make a edge-cloud infra structure above.
 
 virtualization system environment : 
 os : ubuntu 14.04
