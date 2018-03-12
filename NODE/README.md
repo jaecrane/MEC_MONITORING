@@ -35,3 +35,15 @@ Acknowledgments
 
 •	This code is made for ‘System SW Development in Mobile Edge Cloud for High-Availability and Low-Power Management’ project (NRF-2017M3C4A7081953)
 
+
+---------------SIFTP implementation description---------------------------
+
+first, u make the folder -> /etx/xen/dnclabm/chalog (log will be store in this folder, and log store path is static.)
+
+second, this "siftp.exe" must be in the etx/xen/dnclabm.
+
+third, place "the node_monitor.c" into /etc/xen/dnclabm.
+
+*becareful, "siftp.exe" and "node_monitor.c" must be in the same directory.
+
+---------------------------------------------------------------------------
