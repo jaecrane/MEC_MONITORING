@@ -8,8 +8,6 @@
 
 #include <stdlib.h>
 
- 
-
 struct xlInfo
 
 {
